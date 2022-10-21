@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">BiTGApps</string>
+    <!-- Navigation Menu Titles -->
+    <string name="title_home">主页</string>
+    <string name="title_installer">安装</string>
+    <string name="title_updater">升级</string>
+    <string name="title_settings">设置</string>
+    <!-- Other Strings -->
+    <string name="credits">致谢</string>
+    <string name="settings">设置</string>
+    <string name="exit_dialog">“您确定要退出吗？”</string>
+    <string name="dialog_positive">是</string>
+    <string name="dialog_negative">否</string>
+    <!-- Error Strings -->
+    <string name="connection_error">发生了一些错误！\n请检查您的网络连接。</string>
+    <string name="storage_perm_error">请授予本APP存储权限！</string>
+    <string name="no_browser_installed">您的设备没有安装浏览器</string>
+    <string name="no_root_access_granted">无法获取超级用户权限！</string>
+    <string name="bitgapps_not_installed">BiTGApps未安装！</string>
+    <!-- Download Strings -->
+    <string name="download_desc">选择安卓版本和系统架构</string>
+    <string name="input_android">安卓版本</string>
+    <string name="input_arch">系统架构</string>
+    <string name="input_arch_empty">请选择系统架构！</string>
+    <string name="input_android_empty">请选择安卓版本</string>
+    <string name="input_dialog_title">请选择</string>
+    <string name="download_button">下载</string>
+    <string name="downloading">下载已开始！\n您可以在系统通知栏查看详情。</string>
+    <!-- Config File Strings -->
+    <string name="config_maker_header">配置文件</string>
+    <string name="config_button">下载</string>
+    <string name="config_file_created">下载完成！</string>
+    <!-- Device Info Strings -->
+    <string name="device_info_header">设备信息</string>
+    <string name="device_model">型号</string>
+    <string name="device_architecture">系统架构</string>
+    <string name="device_android">安卓版本</string>
+    <!-- Social Links Header -->
+    <string name="contact_header">社交链接</string>
+
+    <!-- Installer Strings -->
+    <string name="installer_browse_button">选择BiTGApps安装包</string>
+    <string name="installer_install_button">安装BiTGApps安装包</string>
+    <string name="installer_reboot_button">重启手机</string>
+    <string name="installer_reboot_fab">重启</string>
+    <string name="rebooting_in">将会在 %s秒后重启</string>
+
+    <!-- Updater Strings -->
+    <string name="currently_installed">当前版本</string>
+    <string name="no_updates_found">没有发现更新。</string>
+    <string name="new_updates_found">发现更新！</string>
+    <string name="update_changelog">更新日志</string>
+    <string name="check_update">检查更新</string>
+    <string name="install_update">安装更新</string>
+    <string name="installing_update">正在安装更新！\n请保持本程序在前台运行！</string>
+    <string name="gapps_info_package">安装包</string>
+    <string name="gapps_info_version">版本</string>
+
+    <!-- Preference Titles -->
+    <string name="display_pref_header">显示</string>
+    <!--  Display Preferences -->
+    <string name="display_pref_title">默认主题</string>
+    <string name="material_you_perf_title">Material You</string>
+    <string name="material_you_perf_summary">根据手机壁纸来自动切换主题（需要安卓12及其以上版本）</string>
+    <string name="material_you_unavailable">抱歉，Material You看起来不支持您的设备或当前安卓版本！</string>
+    <string name="relaunch_app">请重启APP来应用这些更改！</string>
+
+</resources>
