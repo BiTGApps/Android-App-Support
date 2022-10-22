@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">BiTGApps</string>
+    <!-- Navigation Menu Titles -->
+    <string name="title_home">Utama</string>
+    <string name="title_installer">Penginstal</string>
+    <string name="title_updater">Pembaru</string>
+    <string name="title_settings">Setelan</string>
+    <!-- Other Strings -->
+    <string name="credits">Kredit</string>
+    <string name="settings">Setelan</string>
+    <string name="exit_dialog">"Apakah yakin ingin keluar dari aplikasi?"</string>
+    <string name="dialog_positive">Ya</string>
+    <string name="dialog_negative">Tidak</string>
+    <!-- Error Strings -->
+    <string name="connection_error">Ada sesuatu yang salah!\nMohon untuk cek koneksi internet pada perangkat.</string>
+    <string name="storage_perm_error">Mohon untuk izinkan akses penyimpanan!</string>
+    <string name="no_browser_installed">Tidak ada Peramban yang terpasang</string>
+    <string name="no_root_access_granted">Perizinan SuperUser tidak tersedia!</string>
+    <string name="bitgapps_not_installed">BiTGApps tidak terpasang!</string>
+    <!-- Download Strings -->
+    <string name="download_desc">Pilih Versi Android dan Arsitektur Sistem.</string>
+    <string name="input_android">Versi Android</string>
+    <string name="input_arch">Arsitektur Sistem</string>
+    <string name="input_arch_empty">Pilih Arsitektur Sistem!</string>
+    <string name="input_android_empty">Pilih Versi Android!</string>
+    <string name="input_dialog_title">Mohon Pilih Sesuatu</string>
+    <string name="download_button">Unduh</string>
+    <string name="downloading">Unduhan Dimulai!\nLihat notifikasi untuk informasi selengkapnya.</string>
+    <!-- Config File Strings -->
+    <string name="config_maker_header">File Konfigurasi</string>
+    <string name="config_button">Unduh</string>
+    <string name="config_file_created">Unduhan Selesai!</string>
+    <!-- Device Info Strings -->
+    <string name="device_info_header">Informasi Perangkat</string>
+    <string name="device_model">Model</string>
+    <string name="device_architecture">Arsitektur Sistem</string>
+    <string name="device_android">Versi Android</string>
+    <!-- Social Links Header -->
+    <string name="contact_header">Tautan Sosial</string>
+
+    <!-- Installer Strings -->
+    <string name="installer_browse_button">Pilih Paket BiTGApps</string>
+    <string name="installer_install_button">Instal Paket BiTGApps</string>
+    <string name="installer_reboot_button">Mulai Ulang Sistem</string>
+    <string name="installer_reboot_fab">Mulai Ulang</string>
+    <string name="rebooting_in">Memulai ulang dalam %s</string>
+
+    <!-- Updater Strings -->
+    <string name="currently_installed">Terpasang saat ini</string>
+    <string name="no_updates_found">Pembaruan belum tersedia.</string>
+    <string name="new_updates_found">Pembaruan tersedia!</string>
+    <string name="update_changelog">Log Perubahan</string>
+    <string name="check_update">Cek Pembaruan</string>
+    <string name="install_update">Instal Pembaruan</string>
+    <string name="installing_update">Menginstal Pembaruan!\nMohon untuk tidak menutup jendela atau tampilan ini.</string>
+    <string name="gapps_info_package">Paket</string>
+    <string name="gapps_info_version">Versi</string>
+
+    <!-- Preference Titles -->
+    <string name="display_pref_header">Tampilan</string>
+    <!--  Display Preferences -->
+    <string name="display_pref_title">Tema Default</string>
+    <string name="material_you_perf_title">Material You</string>
+    <string name="material_you_perf_summary">Mengatur tema berdasarkan Wallpaper pada perangkat. (Untuk Android 12 atau lebih)</string>
+    <string name="material_you_unavailable">Maaf, sepertinya Perangkat atau Versi Android tidak mendukung fitur Material You.</string>
+    <string name="relaunch_app">Mohon mulai ulang aplikasi untuk menerapkan perubahan.</string>
+
+</resources>
