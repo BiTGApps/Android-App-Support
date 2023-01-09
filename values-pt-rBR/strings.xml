@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">BiTGApps</string>
+    <!-- Navigation Menu Titles -->
+    <string name="title_home">Tela Inicial</string>
+    <string name="title_installer">Instalador</string>
+    <string name="title_updater">Atualizador</string>
+    <string name="title_settings">Configurações</string>
+    <!-- Other Strings -->
+    <string name="credits">Créditos</string>
+    <string name="settings">Configurações</string>
+    <string name="exit_dialog">"Tem certeza que deseja sair?"</string>
+    <string name="dialog_positive">Sim</string>
+    <string name="dialog_negative">Não</string>
+    <!-- Error Strings -->
+    <string name="connection_error">Algo deu errado!\nProvavelmente checar a sua conexão com a internet.</string>
+    <string name="storage_perm_error">Favor permitir acesso ao armazenamento!</string>
+    <string name="no_browser_installed">Nenhum navegador instalado</string>
+    <string name="no_root_access_granted">Acesso root não disponível!</string>
+    <string name="bitgapps_not_installed">BiTGApps não está instalado!</string>
+    <!-- Download Strings -->
+    <string name="download_desc">Selecione a Versão do Android e a Arquitetura do Sistema.</string>
+    <string name="input_android">Versão do Android</string>
+    <string name="input_arch">Arquitetura do Sistema</string>
+    <string name="input_arch_empty">Select Android Platform!</string>
+    <string name="input_android_empty">Selecione a Plataforma do Android!</string>
+    <string name="input_dialog_title">Favor Selecionar</string>
+    <string name="download_button">Download</string>
+    <string name="downloading">Download Começou!\nVeja suas notificações para mais detalhes.</string>
+    <!-- Config File Strings -->
+    <string name="config_maker_header">Arquivo de Configuração</string>
+    <string name="config_button">Download</string>
+    <string name="config_file_created">Download Finalizado!</string>
+    <!-- Device Info Strings -->
+    <string name="device_info_header">Informação do Dispositivo</string>
+    <string name="device_model">Modelo</string>
+    <string name="device_architecture">Arquitetura do Sistema</string>
+    <string name="device_android">Versão do Android</string>
+    <!-- Social Links Header -->
+    <string name="contact_header">Redes Sociais</string>
+
+    <!-- Installer Strings -->
+    <string name="installer_browse_button">Selecionar o Pacote do BitGApps</string>
+    <string name="installer_install_button">Instalar o Pacote do BitGApps</string>
+    <string name="installer_reboot_button">Reiniciar o Sistema</string>
+    <string name="installer_reboot_fab">Reiniciar</string>
+    <string name="rebooting_in">Reiniciando em %s</string>
+
+    <!-- Updater Strings -->
+    <string name="currently_installed">Atualmente instalado</string>
+    <string name="no_updates_found">Sem novas atualizações.</string>
+    <string name="new_updates_found">Novas atualizações encontradas!</string>
+    <string name="update_changelog">Mudanças</string>
+    <string name="check_update">Verificar atualizações</string>
+    <string name="install_update">Instalar atualização</string>
+    <string name="installing_update">Instalando atualização!\nAguarde sem sair desta tela.</string>
+    <string name="gapps_info_package">Pacote</string>
+    <string name="gapps_info_version">Versão</string>
+
+    <!-- Preference Titles -->
+    <string name="display_pref_header">Display</string>
+    <!--  Display Preferences -->
+    <string name="display_pref_title">Tema Padrão</string>
+    <string name="material_you_perf_title">Material You</string>
+    <string name="material_you_perf_summary">Mudar tema de acordo com seu papel de parede (Android 12 ou mais recente).</string>
+    <string name="material_you_unavailable">Desculpe, parece que o Material You não é suportado pelo seu dispositivo ou sua versão do Android.</string>
+    <string name="relaunch_app">Favor reiniciar o aplicativo para aplicar as alterações.</string>
+
+</resources>
